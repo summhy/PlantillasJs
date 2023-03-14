@@ -2,3 +2,13 @@ header, footer{
     background-color: yellow;
     padding: 30px;
 }
+
+.card{
+    background-color: red;
+    color: blue;
+    width: 200px;
+    margin: 5px;
+}
+.container{
+    display:flex
+}
